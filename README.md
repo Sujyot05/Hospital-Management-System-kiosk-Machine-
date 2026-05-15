@@ -63,6 +63,7 @@ This project is created as a dedicated Android Kiosk Application for hospital ma
 ### Authorship
 
 Created by Sujyot
+https://linkedin.com/in/sujyot-bhandare
 
 ### Repository URL
 
